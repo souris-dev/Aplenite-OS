@@ -13,7 +13,7 @@ Building
 2. Run `make`.
 
 The kernel binary image will be built.
-***Ignore any errors.***
+***Please ignore any errors.***
 
 References
 ----------------
