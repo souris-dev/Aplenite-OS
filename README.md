@@ -8,12 +8,18 @@ Very good for learning, as it is heavily commented.
 
 Building
 -----------
+2. `cd` to the 'src' directory.
+1. Run `make clean`.
+2. Run `make`.
 
-1. Make the kernel binary by:                                                                                                                                   
-
-	make clean                                                                                                                                                                                          
-	make                                                                                                                                                                      
-	make clean
-                                                                                                                                                                                      
-
+The kernel binary image will be built.
 ***Ignore any errors.***
+
+References
+----------------
+- [www.jamesmolly.co.uk](www.jamesmolly.co.uk) - Good OS development tutorials for getting started.
+- [wiki.osdev.org](http://wiki.osdev.org) - A good OS development forum cum tutorial site.
+
+License
+----------------
+Please see the LICENSE file for the GNU GPL v2 License.
