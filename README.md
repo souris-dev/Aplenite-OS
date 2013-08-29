@@ -8,12 +8,13 @@ Very good for learning, as it is heavily commented.
 
 Building
 -----------
-2. `cd` to the 'src' directory.
-1. Run `make clean`.
-2. Run `make`.
+1. Copy all the files in the `inc` and `build` directories to the `src` directory.
+1. Ensure that you are inside  the `src` directory.
+2. Run `make clean`.
+3. Run `make`.
 
 The kernel binary image will be built.
-***Please ignore any errors.***
+***Please ignore any errors. Build on a Linux machine. Build not tested on Windows machines.***
 
 References
 ----------------
