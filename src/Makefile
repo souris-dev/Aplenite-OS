@@ -1,6 +1,6 @@
 # Makefile for aplenite
 
-SOURCES=boot.o main.o monitor.o common.o
+SOURCES=boot.o main.o monitor.o common.o descriptor_tables.o isr.o interrupt.o gdt.o
 
 CFLAGS=-nostdlib -nostdinc -fno-builtin -fno-stack-protector
 LDFLAGS=-Tlink.ld
